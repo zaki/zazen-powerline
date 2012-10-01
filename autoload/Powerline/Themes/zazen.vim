@@ -18,7 +18,7 @@ let g:Powerline#Themes#zazen#theme = Pl#Theme#Create(
     \ , 'zazen:fws'
   \ ),
   \
-  \ Pl#Theme#Buffer('ft_help'
+  \ Pl#Theme#Buffer('bt_help'
     \ , ['static_str.name', 'Help']
     \ , 'filename'
     \ , Pl#Segment#Truncate()
